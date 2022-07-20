@@ -1,0 +1,26 @@
+body{
+    background-image: url(../img/wallpaperflare.com_wallpaper-3.jpg)
+    /*background-color: #374785;*/
+}
+h1,h2,h3,h4,h5,h6,p,span{
+    color: #f76c6c;
+}
+.navbar{
+    color: #24305e;
+}
+hr{
+    background-color:aliceblue;
+    height: 5px
+}
+.carousel{
+    border-radius: 10px; 
+    overflow: hidden;
+    width: 98%
+}
+.carousel-inner img {
+    object-fit: contain;
+    height: 50vh;
+    width: auto;
+    margin: auto;
+  }
+
